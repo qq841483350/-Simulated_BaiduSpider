@@ -1,0 +1,5 @@
+网易 yodao 有道： Mozilla/5.0 (compatible; YodaoBot/1.0; http://www.yodao.com/help/webmaster/spider/ ; )
+Goolgle ： Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+baidu： Baiduspider+(+http://www.baidu.com/search/spider.htm)
+msn： msnbot/1.1 (+http://search.msn.com/msnbot.htm)
+sogou： Sogou Orion spider/3.0(+http://www.sogou.com/docs/help/webmasters.htm#07)
